@@ -2,7 +2,7 @@
 
 Simple web server, written in Rust.
 
-httpreq & httpresponse -> /http
+httpreq & httpresponse -> /http<br>
 main server -> /httpserver
 
 <img src="https://img.shields.io/badge/build-passing-green?labelColor=151515"></img>
